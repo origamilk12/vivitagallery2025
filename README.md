@@ -26,3 +26,9 @@ Matthew
 Title - Space shooter
 - GitHub Repo: https://github.com/Harri-Patel/Hacktoberfest2025/blob/main/game.py
 - Game Page: N/a
+
+Zephan  
+Title - Elemantal Knights
+- GitHub Repo: https://github.com/NookCrow/myfirstproject
+- Game Page: https://NookCrow.github.io/myfirstproject/
+
