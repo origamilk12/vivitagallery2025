@@ -22,3 +22,7 @@ Title - Field Fury
 - GitHub Repo: https://github.com/Naeem2016/my1stproject
 - Game Page: https://naeem2016.github.io/my1stproject/
  
+Matthew  
+Title - Space shooter
+- GitHub Repo: https://github.com/Harri-Patel/Hacktoberfest2025/blob/main/game.py
+- Game Page: N/a
