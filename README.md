@@ -18,7 +18,7 @@ Title - Monster Hunter:creature clash
 - Game Page: https://T5642025Y.github.io/myfirstproject/ 
  
 Naeem
-- title :Field Fury
+Title - Field Fury
 - GitHub Repo: https://github.com/Naeem2016/my1stproject
 - Game Page: https://naeem2016.github.io/my1stproject/
  
